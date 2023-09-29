@@ -1,0 +1,41 @@
+[
+    {
+        "origen": "A",
+        "destino": "A",
+        "peso": 0,
+        "extremo" : "inicio"
+    },
+    {
+        "origen": "A",
+        "destino": "B",
+        "peso": 7,
+        "extremo" : "no"
+    },
+    {
+        "origen": "A",
+        "destino": "C",
+        "peso": 3,
+        "extremo" : "no"
+    },
+    {
+        "origen": "B",
+        "destino": "D",
+        "peso": 2,
+        "extremo" : "fin"
+    },
+   
+
+    {
+        "origen": "C",
+        "destino": "B",
+        "peso": 2,
+        "extremo" : "no"
+    },
+    {
+        "origen": "C",
+        "destino": "D",
+        "peso": 8,
+        "extremo" : "fin"
+    }
+   
+]

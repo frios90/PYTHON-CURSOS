@@ -1,0 +1,217 @@
+[
+    {
+        "origen": "0",
+        "destino": "0",
+        "peso": 0,
+        "extremo" : "inicio"
+    },
+    {
+        "origen": "0",
+        "destino": "A",
+        "peso": 6,
+        "extremo" : "no"
+    },
+    {
+        "origen": "0",
+        "destino": "B",
+        "peso": 7,
+        "extremo" : "no"
+    },
+    {
+        "origen": "0",
+        "destino": "C",
+        "peso": 7,
+        "extremo" : "no"
+    },
+    {
+        "origen": "A",
+        "destino": "B",
+        "peso": 2,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "A",
+        "destino": "D",
+        "peso": 4,
+        "extremo" : "no"
+    },
+    {
+        "origen": "B",
+        "destino": "A",
+        "peso": 2,
+        "extremo" : "no"
+    },
+    {
+        "origen": "B",
+        "destino": "D",
+        "peso": 3,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "B",
+        "destino": "E",
+        "peso":  4,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "B",
+        "destino": "C",
+        "peso":  1,
+        "extremo" : "fin"
+    },
+
+    {
+        "origen": "C",
+        "destino": "B",
+        "peso":  1,
+        "extremo" : "no"
+    },
+    {
+        "origen": "C",
+        "destino": "E",
+        "peso":  3,
+        "extremo" : "no"
+    },
+    {
+        "origen": "D",
+        "destino": "A",
+        "peso":  4,
+        "extremo" : "no"
+    },
+    {
+        "origen": "D",
+        "destino": "B",
+        "peso":  3,
+        "extremo" : "no"
+    },
+    {
+        "origen": "D",
+        "destino": "E",
+        "peso":  3,
+        "extremo" : "no"
+    },
+    {
+        "origen": "D",
+        "destino": "G",
+        "peso":  6,
+        "extremo" : "no"
+    },
+    {
+        "origen": "D",
+        "destino": "H",
+        "peso":  4,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "E",
+        "destino": "C",
+        "peso":  3,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "E",
+        "destino": "B",
+        "peso":  4,
+        "extremo" : "no"
+    },
+    {
+        "origen": "E",
+        "destino": "D",
+        "peso":  3,
+        "extremo" : "no"
+    },
+    {
+        "origen": "E",
+        "destino": "F",
+        "peso":  5,
+        "extremo" : "no"
+    },
+    {
+        "origen": "E",
+        "destino": "G",
+        "peso":  9,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "F",
+        "destino": "E",
+        "peso":  5,
+        "extremo" : "no"
+    },
+    {
+        "origen": "F",
+        "destino": "G",
+        "peso":  2,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "F",
+        "destino": "T",
+        "peso":  6,
+        "extremo" : "fin"
+    },
+
+    {
+        "origen": "G",
+        "destino": "E",
+        "peso":  9,
+        "extremo" : "no"
+    },
+    {
+        "origen": "G",
+        "destino": "F",
+        "peso":  2,
+        "extremo" : "no"
+    },
+    {
+        "origen": "G",
+        "destino": "D",
+        "peso":  6,
+        "extremo" : "no"
+    },
+    {
+        "origen": "G",
+        "destino": "H",
+        "peso":  1,
+        "extremo" : "no"
+    },
+    {
+        "origen": "G",
+        "destino": "T",
+        "peso":  7,
+        "extremo" : "fin"
+    },
+
+    {
+        "origen": "H",
+        "destino": "D",
+        "peso":  4,
+        "extremo" : "no"
+    },
+
+    {
+        "origen": "H",
+        "destino": "G",
+        "peso":  1,
+        "extremo" : "no"
+    },
+    {
+        "origen": "H",
+        "destino": "T",
+        "peso":  6,
+        "extremo" : "fin"
+    }
+
+
+
+
+
+
+]
